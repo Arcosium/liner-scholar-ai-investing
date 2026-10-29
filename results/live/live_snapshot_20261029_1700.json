@@ -1,0 +1,76 @@
+{
+ "basis": "2026-10-29 17:00 KST (1793260800). 장부 기준=정산 기준 equity(CNN은 17:00 마감 평가, GBM은 17:00까지 실현 손익), 현재 평가=/api/performance 시간 단위 시계열의 17:00 직전 점(16:59, 원천 16:57)",
+ "source": "http://127.0.0.1:8996 (= https://autocrypto.ai-ve.uk) GET /api/book/{key}, /api/performance/{key}?interval=hour",
+ "books": {
+  "cnn_equal": {
+   "label": "CNN 기본",
+   "hold_days": 14,
+   "settled_return_pct": 12.28,
+   "mtm_return_pct_at_1659": 12.28,
+   "perf_point": {
+    "ts": 1793260740.0,
+    "equity": 11228.130634187466,
+    "net_return": 0.12281306341874654,
+    "source_ts": 1793260620.0
+   },
+   "started": "2026-09-08T04:00:00+00:00",
+   "n_trades": 8658
+  },
+  "cnn": {
+   "label": "CNN 가중",
+   "hold_days": 14,
+   "settled_return_pct": 12.85,
+   "mtm_return_pct_at_1659": 12.84,
+   "perf_point": {
+    "ts": 1793260740.0,
+    "equity": 11284.416462484793,
+    "net_return": 0.1284416462484792,
+    "source_ts": 1793260620.0
+   },
+   "started": "2026-09-08T04:00:00+00:00",
+   "n_trades": 8658
+  },
+  "v2": {
+   "label": "GBM v2",
+   "hold_days": 14,
+   "settled_return_pct": -5.59,
+   "mtm_return_pct_at_1659": -1.63,
+   "perf_point": {
+    "ts": 1793260740.0,
+    "equity": 9836.752480408695,
+    "net_return": -0.016324751959130523,
+    "source_ts": 1793260620.0
+   },
+   "started": "2026-09-07T16:12:27.118699+00:00",
+   "n_trades": 253
+  },
+  "v1": {
+   "label": "GBM v1",
+   "hold_days": 7,
+   "settled_return_pct": -3.39,
+   "mtm_return_pct_at_1659": -1.68,
+   "perf_point": {
+    "ts": 1793260740.0,
+    "equity": 9831.724876898868,
+    "net_return": -0.016827512310113146,
+    "source_ts": 1793260620.0
+   },
+   "started": "2026-09-07T16:12:27.115991+00:00",
+   "n_trades": 557
+  },
+  "v2d": {
+   "label": "GBM 1d",
+   "hold_days": 20,
+   "settled_return_pct": -3.8,
+   "mtm_return_pct_at_1659": 0.14,
+   "perf_point": {
+    "ts": 1793260740.0,
+    "equity": 10013.662126489124,
+    "net_return": 0.001366212648912457,
+    "source_ts": 1793260620.0
+   },
+   "started": "2026-09-08T00:12:36.864666+00:00",
+   "n_trades": 177
+  }
+ }
+}

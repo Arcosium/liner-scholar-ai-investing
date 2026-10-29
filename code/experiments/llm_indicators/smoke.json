@@ -1,0 +1,278 @@
+{
+  "model": {
+    "id": "claude-haiku-5-5",
+    "created_at": "2026-10-07T18:00:00Z",
+    "display_name": "Claude Haiku 5.5",
+    "type": "model",
+    "line": "haiku",
+    "max_input_tokens": 1000000,
+    "max_tokens": 128000,
+    "capabilities": {
+      "batch": {
+        "supported": true
+      },
+      "citations": {
+        "supported": true
+      },
+      "code_execution": {
+        "supported": true
+      },
+      "context_management": {
+        "supported": true,
+        "clear_tool_uses_20250919": {
+          "supported": true
+        },
+        "clear_thinking_20251015": {
+          "supported": true
+        },
+        "compact_20260112": {
+          "supported": true
+        }
+      },
+      "effort": {
+        "supported": true,
+        "low": {
+          "supported": true
+        },
+        "medium": {
+          "supported": true
+        },
+        "high": {
+          "supported": true
+        },
+        "xhigh": {
+          "supported": true
+        },
+        "max": {
+          "supported": true
+        }
+      },
+      "image_input": {
+        "supported": true
+      },
+      "pdf_input": {
+        "supported": true
+      },
+      "server_tools": {
+        "supported": true,
+        "code_execution": {
+          "supported": true
+        },
+        "web_search": {
+          "supported": true
+        }
+      },
+      "structured_outputs": {
+        "supported": true
+      },
+      "thinking": {
+        "supported": true,
+        "types": {
+          "enabled": {
+            "supported": false
+          },
+          "adaptive": {
+            "supported": true
+          },
+          "disabled": {
+            "supported": true
+          },
+          "between_tools": {
+            "supported": false
+          }
+        }
+      }
+    },
+    "lifecycle": "active",
+    "deprecated_at": null,
+    "retires_at": null
+  },
+  "calls": [
+    {
+      "id": "s3_1717200000000_chart_r0",
+      "ok": true,
+      "error": null,
+      "seconds": 8.1,
+      "usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 30643,
+        "input_tokens": 4,
+        "output_tokens": 1893,
+        "server_tool_use": null,
+        "service_tier": "standard",
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "cost_usd_nonbatch": 0.00125333,
+      "blocks": [
+        "text"
+      ]
+    },
+    {
+      "id": "s3_1717200000000_chart_r1",
+      "ok": true,
+      "error": null,
+      "seconds": 8.1,
+      "usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 30643,
+        "input_tokens": 4,
+        "output_tokens": 1894,
+        "server_tool_use": null,
+        "service_tier": "standard",
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "cost_usd_nonbatch": 0.0012538299999999998,
+      "blocks": [
+        "text"
+      ]
+    },
+    {
+      "id": "s3_1717200000000_chart_r2",
+      "ok": true,
+      "error": null,
+      "seconds": 5.9,
+      "usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 30643,
+        "input_tokens": 4,
+        "output_tokens": 1697,
+        "server_tool_use": null,
+        "service_tier": "standard",
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "cost_usd_nonbatch": 0.00115533,
+      "blocks": [
+        "text"
+      ]
+    },
+    {
+      "id": "s3_1717200000000_context_r0",
+      "ok": true,
+      "error": null,
+      "seconds": 7.3,
+      "usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 40737,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 40737,
+        "cache_read_input_tokens": 0,
+        "input_tokens": 4,
+        "output_tokens": 1690,
+        "server_tool_use": null,
+        "service_tier": "standard",
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "cost_usd_nonbatch": 0.0089928,
+      "blocks": [
+        "text"
+      ]
+    },
+    {
+      "id": "s3_1717200000000_context_r1",
+      "ok": true,
+      "error": null,
+      "seconds": 7.4,
+      "usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 40737,
+        "input_tokens": 4,
+        "output_tokens": 1880,
+        "server_tool_use": null,
+        "service_tier": "standard",
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "cost_usd_nonbatch": 0.00134777,
+      "blocks": [
+        "text"
+      ]
+    },
+    {
+      "id": "s3_1717200000000_context_r2",
+      "ok": true,
+      "error": null,
+      "seconds": 8.0,
+      "usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 40737,
+        "input_tokens": 4,
+        "output_tokens": 1895,
+        "server_tool_use": null,
+        "service_tier": "standard",
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "inference_geo": "global",
+        "speed": "standard"
+      },
+      "cost_usd_nonbatch": 0.00135527,
+      "blocks": [
+        "text"
+      ]
+    }
+  ],
+  "batch": {
+    "batch_id": "msgbatch_01HrBQfWPNLw1sm83uYS5uDG",
+    "type": "succeeded",
+    "ok": true,
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 30643,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 30643,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 4,
+      "output_tokens": 1682,
+      "server_tool_use": null,
+      "service_tier": "batch",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    },
+    "cost_usd": 0.003485
+  }
+}

@@ -1,0 +1,9 @@
+quarters [('2025-12', '2026-03', '2026-06')]
+740 bases, 162 holdout  in
+ 4h W=60  H=84  s0 val_ap=0.5505 lift=1.10 test_lift=1.05 unseen_lift=1.12 n=300000 100s
+ 4h W=120 H=42  s0 val_ap=0.5326 lift=1.07 test_lift=1.04 unseen_lift=1.08 n=300000 42s
+quarters [('2025-12', '2026-03', '2026-06')]
+740 bases, 162 holdout  in
+ 4h W=60  H=42  s0 val_ap=0.5328 lift=1.07 test_lift=1.06 unseen_lift=1.09 n=300000 67s
+/home/arcosium/projects/라이너스콜라_공모전/_workspace/final_20261029/gbm/ens_v2hold_4h_s0_pred.npz rows 103908 spread_z 0.171 hit 0.484/0.625
+GBM_HOLD_DONE

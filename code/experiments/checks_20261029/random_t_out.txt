@@ -1,0 +1,2 @@
+무작위 1 days 408 NW t(lag14) -2.27 Sharpe -2.11
+무작위 2 days 408 NW t(lag14) -2.33 Sharpe -2.03

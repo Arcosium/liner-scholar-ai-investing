@@ -1,0 +1,962 @@
+[
+  {
+    "id": "s0_1764547200000_A000_r0",
+    "ok": true,
+    "score": -0.2,
+    "text": "{\"score\": -0.2000}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1764619200000_A047_r0",
+    "ok": true,
+    "score": 0.32,
+    "text": "{\"score\": 0.3200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1764691200000_A094_r0",
+    "ok": true,
+    "score": 0.42,
+    "text": "{\"score\": 0.4200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1764763200000_A141_r0",
+    "ok": true,
+    "score": 0.12,
+    "text": "{\"score\": 0.1200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1764835200000_A188_r0",
+    "ok": true,
+    "score": -0.2,
+    "text": "{\"score\": -0.2}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 11,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1764921600000_A045_r0",
+    "ok": true,
+    "score": -0.2,
+    "text": "{\"score\": -0.2000}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1764993600000_A092_r0",
+    "ok": true,
+    "score": -0.3,
+    "text": "{\"score\": -0.3}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 11,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765065600000_A139_r0",
+    "ok": true,
+    "score": 0.15,
+    "text": "{\"score\": 0.1500}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765137600000_A186_r0",
+    "ok": true,
+    "score": -0.2,
+    "text": "{\"score\": -0.2000}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765224000000_A043_r0",
+    "ok": true,
+    "score": -0.2,
+    "text": "{\"score\": -0.2000}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765296000000_A090_r0",
+    "ok": true,
+    "score": 0.3,
+    "text": "{\"score\": 0.3}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 11,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765368000000_A137_r0",
+    "ok": true,
+    "score": -0.2,
+    "text": "{\"score\": -0.2000}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765454400000_A000_r0",
+    "ok": true,
+    "score": 0.23,
+    "text": "{\"score\": 0.2300}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765526400000_A052_r0",
+    "ok": true,
+    "score": 0.12,
+    "text": "{\"score\": 0.1200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765598400000_A104_r0",
+    "ok": true,
+    "score": 0.42,
+    "text": "{\"score\": 0.4200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765670400000_A156_r0",
+    "ok": true,
+    "score": -0.2,
+    "text": "{\"score\": -0.2000}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765756800000_A019_r0",
+    "ok": true,
+    "score": 0.15,
+    "text": "{\"score\": 0.1500}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765828800000_A073_r0",
+    "ok": true,
+    "score": 0.15,
+    "text": "{\"score\": 0.1500}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765900800000_A130_r0",
+    "ok": true,
+    "score": 0.32,
+    "text": "{\"score\": 0.3200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1765972800000_A187_r0",
+    "ok": true,
+    "score": 0.32,
+    "text": "{\"score\": 0.3200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766059200000_A056_r0",
+    "ok": true,
+    "score": -0.3,
+    "text": "{\"score\": -0.3}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 11,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766131200000_A113_r0",
+    "ok": true,
+    "score": -0.35,
+    "text": "{\"score\": -0.3500}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766203200000_A170_r0",
+    "ok": true,
+    "score": 0.4,
+    "text": "{\"score\": 0.4000}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766289600000_A039_r0",
+    "ok": true,
+    "score": 0.42,
+    "text": "{\"score\": 0.4200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766361600000_A096_r0",
+    "ok": true,
+    "score": -0.35,
+    "text": "{\"score\": -0.3500}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766433600000_A153_r0",
+    "ok": true,
+    "score": -0.32,
+    "text": "{\"score\": -0.3200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766520000000_A022_r0",
+    "ok": true,
+    "score": 0.12,
+    "text": "{\"score\": 0.1200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766592000000_A079_r0",
+    "ok": true,
+    "score": -0.24,
+    "text": "{\"score\": -0.2400}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766664000000_A136_r0",
+    "ok": true,
+    "score": 0.12,
+    "text": "{\"score\": 0.1200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766750400000_A005_r0",
+    "ok": true,
+    "score": -0.2,
+    "text": "{\"score\": -0.2000}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766822400000_A062_r0",
+    "ok": true,
+    "score": 0.12,
+    "text": "{\"score\": 0.1200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766894400000_A119_r0",
+    "ok": true,
+    "score": 0.12,
+    "text": "{\"score\": 0.1200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1766966400000_A176_r0",
+    "ok": true,
+    "score": 0.15,
+    "text": "{\"score\": 0.1500}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1767052800000_A045_r0",
+    "ok": true,
+    "score": 0.15,
+    "text": "{\"score\": 0.1500}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1767124800000_A102_r0",
+    "ok": true,
+    "score": -0.2,
+    "text": "{\"score\": -0.2000}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1767196800000_A159_r0",
+    "ok": true,
+    "score": -0.2,
+    "text": "{\"score\": -0.2}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 11,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1767283200000_A028_r0",
+    "ok": true,
+    "score": 0.12,
+    "text": "{\"score\": 0.1200}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1767355200000_A085_r0",
+    "ok": true,
+    "score": 0.23,
+    "text": "{\"score\": 0.2300}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1767427200000_A142_r0",
+    "ok": true,
+    "score": 0.3,
+    "text": "{\"score\": 0.3}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 11,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  },
+  {
+    "id": "s0_1767513600000_A011_r0",
+    "ok": true,
+    "score": 0.28,
+    "text": "{\"score\": 0.2800}",
+    "error": null,
+    "usage": {
+      "cache_creation": {
+        "ephemeral_1h_input_tokens": 0,
+        "ephemeral_5m_input_tokens": 0
+      },
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1321,
+      "output_tokens": 12,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      },
+      "inference_geo": "global",
+      "speed": "standard"
+    }
+  }
+]

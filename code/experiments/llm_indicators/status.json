@@ -1,0 +1,11 @@
+{
+  "stage": "completed_with_missing",
+  "total": 12564,
+  "completed": 12561,
+  "failed_final": 3,
+  "retrying": 0,
+  "cost_usd": 21.2171,
+  "budget_usd": 200.0,
+  "error": null,
+  "updated": 1793150048.5150945
+}

@@ -1,0 +1,12 @@
+{
+  "stage": "completed_with_missing",
+  "total": 1197171,
+  "ok": 1197060,
+  "failed_final": 111,
+  "retry": 0,
+  "inflight": 0,
+  "cost_usd": 35.3146,
+  "budget_usd": 120.0,
+  "error": null,
+  "updated": 1793169428.5436335
+}
