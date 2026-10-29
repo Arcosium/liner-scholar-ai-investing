@@ -33,7 +33,7 @@ AI에게 투자를 그냥 맡기면 잃었다. 과거 자료로 학습·검증�
 | `results/scores/` | 종목·판단 시각별 점수 전부. Haiku 네 조건(반복마다, 구간마다), 학습 모델 4구간, 별도 기간 |
 | `results/holdout/` | 별도 기간 평가표와 LightGBM 구성원 학습 기록 |
 | `results/hyfe_tables/` | 펀딩 반영표, DSR 표, 캔들 CNN 등 시험한 설정 전체 성과 |
-| `results/live/` | 모의 운영 장부 2026-10-29 17:00 KST 스냅샷 |
+| `results/live/` | 모의 운영 장부 2026-10-29 17:00 KST 스냅샷과 GBM 장부 시작 시각 통일 계산 |
 | `results/universe/` | 종목표(740종목, 제외 사유, 미학습 종목 표시) |
 
 ## 논문 수치와 파일
@@ -44,7 +44,7 @@ AI에게 투자를 그냥 맡기면 잃었다. 과거 자료로 학습·검증�
 | 무작위 대조 대비 차이, 연 변동성, 열지도 점수와 CNN 점수 상관 | `results/llm_heatmap/analysis_out.txt`, `code/experiments/checks_20261028/diff_random_out.txt` |
 | 별도 기간 2.49·1.84, 펀딩 반영 2.00·1.43 | `results/holdout/holdout_eval.csv` |
 | 펀딩 반영 2.95·1.99, DSR 0.26~0.35 | `results/hyfe_tables/funding_table.csv`, `results/hyfe_tables/dsr_table.csv` |
-| 표 11 모의 운영 | `results/live/live_snapshot_20261029_1700.json` |
+| 표 11 모의 운영(모든 장부 2026-09-08 13:00 KST 시작으로 통일) | `results/live/live_snapshot_20261029_1700.json`, `results/live/gbm_rebase.json`, `code/experiments/holdout_lightgbm/gbm_rebase.py` |
 
 ## 다시 돌리기
 
