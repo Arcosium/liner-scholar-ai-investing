@@ -18,6 +18,14 @@
 
 AI에게 투자를 그냥 맡기면 잃었다. 과거 자료로 학습·검증하는 모델에게 종목 사이의 비교 기준을 담은 값을 줄 때 벌 기회가 생겼다.
 
+## 바로 확인하기
+
+```bash
+python3 code/reproduce_main_results.py
+```
+
+numpy·pandas만으로 `results/`의 구간별 일별 순자산에서 논문 표 6의 Haiku 세 조건(반복 3회씩)·LightGBM·열지도 CNN의 Sharpe·누적수익률·MDD를 다시 계산하고 논문 값과 맞는지 보여 준다. 11개 값이 모두 일치한다.
+
 ## 구성
 
 | 경로 | 내용 |
